@@ -763,9 +763,7 @@
       padding-bottom: 6rem;
     }
   
-    .container {
-      padding: 2rem 2.5rem !important;
-    }
+    
   
     .about-stats .progress-bars {
       grid-template-columns: repeat(1, 1fr);
@@ -919,6 +917,7 @@
     .left-header .image {
       width: 90% !important;
       margin: 0 auto !important;
+      height: 50vh;
     }
   
     .right-header {
